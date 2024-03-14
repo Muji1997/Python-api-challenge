@@ -1,4 +1,4 @@
-# Sebastian's Python API Challenge - What's the Weather Like?
+#  Python API Challenge
 
 ## Background
 
